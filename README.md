@@ -2,7 +2,9 @@
 
 int main(void)
 {
-  printf("Hoolo Wordl! ");
-  
-  return 0;
-}
+   int i, n, m;
+   i = 1, n = 2;
+   printf("m = %d", i+n);
+   return 0;
+ }
+   
